@@ -22,7 +22,7 @@ https://www.mercadobitcoin.com.br/api-doc/
     - Ou outra de sua preferência
 - Usar `vue-i18n` para internacionalização
 - Mostrar o total negociado e a conversão em reais
-- Implementar input para escolher alguma outra ciptomoeda
+- Implementar input para escolher alguma outra criptomoeda
 
 ## Observações
 
