@@ -1,31 +1,27 @@
-![logo khiza](img/LOGO_KHIZA_09.png)
+# Ethereum Trades
+This project lists all Ethereum trades that occurred on the Mercado Bitcoin platform on a specific date, using the Mercado Bitcoin API.
 
-# Khizer
+# Requirements
+To run this project, you need to have Node.js and npm (Node Package Manager) installed on your machine.
 
-Utilize a API da Mercado Bitcoin para listar as negociações de Ethereum que ocorreram na plataforma em uma determinada data.
+# Project Setup
+- Clone this repository.
+- In the project directory, run npm install to install all dependencies.
 
-Documentação:
-https://www.mercadobitcoin.com.br/api-doc/
+## Running the Project
 
-## Requisitos obrigatórios
+To run the project, use the following commands:
 
-- Utilizar vuejs 3
-- Listar as negociações (trades) que ocorreram na plataforma Mercado Bitcoin
-- Adicionar campo para filtrar os resultados a partir de datas arbitrárias
+- Compiling and hot-reloading for development:
 
-## Requisitos opcionais (bônus)
+```sh
+npm run dev
+```
 
-- Usar uma biblioteca de componentes
-    - Vuetify
-    - Buefy
-    - Bootstrap Vue
-    - Ou outra de sua preferência
-- Usar `vue-i18n` para internacionalização
-- Mostrar o total negociado e a conversão em reais
-- Implementar input para escolher alguma outra criptomoeda
+This command will start a development server and automatically reload the page when changes are made to the code.
 
-## Observações
+# Usage
+ To view the list of Ethereum trades that occurred on a specific date, simply navigate to the home page of the application and select the desired date from the date picker. The list of trades will be displayed below.
 
-Resolvemos não especificar nada sobre o layout para que você tenha total liberdade de decidir sobre a estrutura do projeto, quais bibliotecas usar e a melhor maneira de como apresentar os dados.
-
-Em caso de dúvidas sobre a implementação entre em contato com yudi@khizadao.com
+# Credits
+This project was created by [Isaque Souza](https://github.com/xonfps).
